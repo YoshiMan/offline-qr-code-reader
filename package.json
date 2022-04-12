@@ -26,6 +26,6 @@
     "vite-plugin-pwa": "^0.11.13",
     "vue-cli-plugin-vuetify": "~2.4.8",
     "vuetify-loader": "^2.0.0-alpha.0",
-    "workbox-precaching": "^6.4.2"
+    "workbox-precaching": "^6.5.3"
   }
 }
