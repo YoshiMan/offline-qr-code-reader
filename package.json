@@ -18,7 +18,7 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.2.4",
     "@vue/cli-plugin-babel": "5.0.1",
-    "@vue/cli-service": "5.0.1",
+    "@vue/cli-service": "5.0.4",
     "@vuetify/vite-plugin": "^1.0.0-alpha.3",
     "sass": "^1.49.9",
     "sass-loader": "^12.6.0",
