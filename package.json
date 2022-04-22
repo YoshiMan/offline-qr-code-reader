@@ -23,7 +23,7 @@
     "sass": "^1.50.1",
     "sass-loader": "^12.6.0",
     "vite": "^2.9.5",
-    "vite-plugin-pwa": "^0.11.13",
+    "vite-plugin-pwa": "^0.12.0",
     "vue-cli-plugin-vuetify": "~2.4.8",
     "vuetify-loader": "^2.0.0-alpha.0",
     "workbox-precaching": "^6.5.3"
